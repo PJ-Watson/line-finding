@@ -19,6 +19,6 @@ authors:
     affiliation: "Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA"
 title: "Line Finding Software for NIRISS Slitless Spectroscopy"
 version: "v1.0.0"
-doi: "10.5281/zenodo.19225151"
+doi: "10.5281/zenodo.19228845"
 date-released: 2026-03-25
 url: "https://github.com"
